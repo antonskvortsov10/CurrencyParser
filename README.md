@@ -2,6 +2,8 @@
 
 Parser of exchange rates
 
+You can download .jar file from /src and then run the application.
+
 This program is written on Java SE.
 
 <hr>
